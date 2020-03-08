@@ -1,0 +1,19 @@
+{
+  "workbench.colorCustomizations": {
+    "[Community Material Theme Palenight High Contrast]": {
+      "editorLineNumber.foreground": "#a1bcd8",
+      "editor.background": "#1B1E2B",
+      "editor.foreground": "#8abdf3"
+    },
+    "[Community Material Theme Darker High Contrast]": {
+      "editor.background": "#1B1E2B",
+      "sideBar.background": "#1B1E2B",
+      "terminal.background": "#1B1E2B",
+      "editorLineNumber.foreground": "#a1bcd8",
+      "editor.foreground": "#8abdf3"
+    },
+    "activityBar.background": "#181F7E",
+    "titleBar.activeBackground": "#222CB0",
+    "titleBar.activeForeground": "#FBFBFE"
+  }
+}
